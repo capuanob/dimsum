@@ -12,6 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+#define DIMSUM_USE_SIMULATED 1
 #include "dimsum.h"
 #include "dimsum_x86.h"
 #include "simulated.h"
