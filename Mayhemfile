@@ -1,0 +1,5 @@
+project: dimsum
+target: dimsum-fuzz
+
+cmds:
+  - cmd: /dimsum-fuzz
